@@ -124,7 +124,7 @@ Random Forest provides **feature importance scores**, identifying the most relev
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Yogesh Pahuja**
 
 - 📧 Email: [pahujayogesh.s@gmail.com](mailto\:pahujayogesh.s@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yogesh-pahuja-a452251b2)
